@@ -9,4 +9,5 @@ set hyper key to space is good idea, usually touch typing just use 9 finger cuz 
 ## Target
 
 * use [touchcursor](https://github.com/donniebreve/touchcursor-linux) for key mapping
-* vim friendly
+* vim user friendly
+* easy to press
