@@ -14,7 +14,7 @@ set hyper key to space is good idea, usually touch typing just use 9 fingers bec
 
 ## reference
 
-thank to [donniebreve](https://github.com/donniebreve) with awesome touchcursor linux projec
+thank to [donniebreve](https://github.com/donniebreve) with awesome touchcursor linux project
 
 ## Contributing workflow
 
